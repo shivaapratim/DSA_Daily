@@ -38,8 +38,7 @@ public:
     //     return taps;
     // }
     
-    vector<vector<int>>dp;
-
+     map<pair<int,int>,int> dp;
 
     int solve(int n,int i, vector<pair<int,int>>&s, int maxEnd){
         
@@ -58,19 +57,18 @@ public:
             return 1e9; 
         }
 
-        if(dp[i][maxEnd]!=-1){
-            return dp[i][maxEnd];
-        }
+        if(dp.find({i,maxEnd}) != dp.end())
+            return dp[{i,maxEnd}];
 
         int notopen=solve(n,i+1,s,maxEnd);
         int open= 1+solve(n,i+1,s,max(maxEnd,s[i].second));
-        return dp[i][maxEnd] = min(open,notopen);
+        return dp[{i, maxEnd}] = min(open,notopen);
     }
 
     int minTaps(int n, vector<int>& ranges) {
         
         vector<pair<int,int>>s;
-        dp = vector<vector<int>>(ranges.size(), vector<int>(n + 1, -1));
+        // dp = vector<vector<int>>(ranges.size(), vector<int>(n + 1, -1)); MLE
         for(int i=0; i<ranges.size(); i++){
             int l = max(i-ranges[i],0);
             int r = min(ranges[i]+i,n);
