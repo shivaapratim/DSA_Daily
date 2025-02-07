@@ -6,13 +6,14 @@ public:
         vector<int>res;
         int dis=0;
 
-        for(int i=0; i<=limit;i++){
-            mp.insert({i,0});
-        }
-
         for(auto it: queries){
             int a= it[0];
             int b= it[1];
+
+            //Ise bolte hain lazy inclination we only put the element in map when iterated.
+            if (mp.find(a) == mp.end()) {
+                mp[a] = 0;
+            }
 
             if(mp[a]==0){
                 if(st[b]==0){
@@ -22,6 +23,7 @@ public:
                 }
                 else{
                     st[b]++;
+                    mp[a]=b;
                 }
             }
             else{
