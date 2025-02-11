@@ -1,6 +1,10 @@
 class Solution {
 public:
     int minMutation(string s, string e, vector<string>& bank) {
+
+        //Only intuion for this is minimum number of mutiations, also these types
+        //are generally to remember like-> Word ladder.
+
         set<string>st;
         set<string>vis;
         queue<string>q;
