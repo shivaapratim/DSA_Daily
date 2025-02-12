@@ -1,27 +1,31 @@
 class Solution {
 public:
     int maximumSum(vector<int>& nums) {
-        map<int, vector<int>> mp;  // Changed to vector instead of pair<int,set>
-        
-        // Calculate digit sum for each number and store
-        for(int num : nums) {
-            int digitSum = 0;
-            for(char c : to_string(num)) {
-                digitSum += c - '0';
+        map<int, multiset<int>> mp; // Use multiset to keep elements sorted
+        int n = nums.size();
+
+        for (int i = 0; i < n; i++) {
+            string s = to_string(nums[i]);
+            int p = 0;
+            for (char c : s) {
+                p += c - '0';
             }
-            mp[digitSum].push_back(num);
+            mp[p].insert(nums[i]);
         }
-        
-        int maxSum = -1;
-        
-         
-        for(auto& [digitSum, numbers] : mp) {
-            if(numbers.size() >= 2) {
-                sort(numbers.begin(), numbers.end(), greater<int>());
-                maxSum = max(maxSum, numbers[0] + numbers[1]);
+
+        int ans = -1;
+
+        for (auto &it : mp) {
+            if (it.second.size() >= 2) {
+                auto iter = it.second.rbegin(); 
+                int first = *iter;
+                iter++;
+                int second = *iter;
+
+                ans = max(ans, first + second);
             }
         }
-        
-        return maxSum;
+
+        return ans;
     }
 };
