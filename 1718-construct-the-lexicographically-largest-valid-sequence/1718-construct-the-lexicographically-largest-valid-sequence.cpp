@@ -29,6 +29,16 @@ public:
     // }
 
 
+    //Ham pehle se bhari hui vector ko lenge or jis jagah value put krni hogi krte chalenge
+    //Saath hi saath uske corresponding index pe bhi 
+    //Fir kisi or value ke liye same kaam karenge n->1 tak jab koi ans mil jaaye vo lexicographically
+    //Sorted hi hoga.
+
+
+    //Aese tough looking questions me sabse pehle ye socho ki kis trah cheezon se bach sakte
+    //Jaise isme lexicographical ke liye n se le liya naki 1->n 
+
+
     bool solve(int i, int n, vector<int>&result, vector<bool>&used){
 
         if(i>=result.size()){
