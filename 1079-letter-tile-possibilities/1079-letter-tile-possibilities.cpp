@@ -2,7 +2,7 @@ class Solution {
 public:
     set<string>st;
 
-    void solve(int i, string&curr, vector<bool>&used, string&tiles){
+    void solve(string&curr, vector<bool>&used, string&tiles){
         
         st.insert(curr);
 
@@ -11,7 +11,7 @@ public:
 
             curr.push_back(tiles[i]);
             used[i]=true;
-            solve(i+1,curr,used,tiles);
+            solve(curr,used,tiles);
 
             //Undo
             curr.pop_back();
@@ -27,7 +27,7 @@ public:
         vector<bool>used(n,false);
 
         string curr="";
-        solve(0,curr,used,tiles);
+        solve(curr,used,tiles);
         return st.size()-1; //Exculed the empty sequence
         
     }
