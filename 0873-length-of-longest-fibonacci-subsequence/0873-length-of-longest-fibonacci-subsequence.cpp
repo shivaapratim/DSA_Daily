@@ -1,26 +1,29 @@
 class Solution {
 public:
 
-    int solve(int i, vector<int>&arr,int p1, int p2, int len){
-        if(i>=arr.size()){
-            return len>=3 ? len:0;
+    int solve(vector<int>&arr, int j, int k, unordered_map<int,int>&mp){
+        int target=arr[k]-arr[j];
+        if(mp.count(target) && mp[target]<j){
+            int i=mp[target];
+            return solve(arr,i,j,mp)+1;
         }
-        int nonpick= solve(i+1,arr,p1,p2,len);
-
-        int pick=0;
-
-        if(len<2){
-            pick=solve(i+1,arr,p2,arr[i],len+1);
-        }
-        else if(arr[i]==p1+p2){
-            pick = solve(i + 1, arr, p2, arr[i], len + 1);
-        }
-        
-        return max(pick,nonpick);
+        return 2;
     }
 
     int lenLongestFibSubseq(vector<int>& arr) {
-        // string s="";
-        return solve(0,arr,-1,-1,0);
+        unordered_map<int,int>mp;
+        for(int i=0; i<arr.size();i++){
+            mp[arr[i]]=i;
+        }
+
+        int maxlen=0;
+        for(int j=1; j<arr.size();j++){
+            for(int k=j+1; k<arr.size();k++){
+                int length=solve(arr,j,k,mp);
+                if(length>2)
+                maxlen=max(length,maxlen);
+            }
+        }
+        return maxlen;
     }
 };
