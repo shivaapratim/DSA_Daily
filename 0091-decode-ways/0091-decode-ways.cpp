@@ -26,6 +26,8 @@ public:
     //solve(i+1)..1 length   solve(i+2)..2 length
     //But solve(i+2) is only possible if(s[i]=='1' || (s[i]=='2' && s[i+1]<='6')
 
+    int dp[101];
+
     int solve(int i, string&s){
         if(i>=s.length()){
             //Means reached a valid split
@@ -34,6 +36,8 @@ public:
         if(s[i]=='0'){
             return 0;
         }
+
+        if(dp[i]!=-1)return dp[i];
         
         int take1=solve(i+1,s);
         int take2=0;
@@ -41,10 +45,11 @@ public:
         if((i+1<s.length()) && (s[i]=='1' || (s[i]=='2' && s[i+1]<='6'))){
             take2=solve(i+2,s);
         }
-        return take1+take2;
+        return dp[i]=take1+take2;
     }
 
     int numDecodings(string s) {
+        memset(dp,-1,sizeof(dp));
         return solve(0,s);
     }
 };
