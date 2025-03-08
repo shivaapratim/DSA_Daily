@@ -14,12 +14,17 @@ public:
     int solve(int i, int j, vector<vector<int>>&mat){
         int maxpath=1;
 
+        //Pareshaan mat ho jo i or j aayega vo hamesha in bound hoga kyunki hamne check 
+        //bhejne se pehle hi kar liya hai.
+
+        if(dp[i][j]!=-1)return dp[i][j];
+
         for(auto it: dir){
             int i_=i+it[0];
             int j_=j+it[1];
 
             if(i_<m && j_<n && i_>=0 && j_>=0){
-                if(dp[i][j]!=-1)return dp[i][j];
+               
                 if(mat[i][j]<mat[i_][j_]){
                     maxpath= max(maxpath, 1+solve(i_,j_,mat));
                 }
