@@ -1,26 +1,26 @@
 class Solution {
 public:
 
-    void solve(int i, vector<int>&nums,int&mini, int cnt){
-        if(i==nums.size()-1){
-            mini= min(cnt,mini);
-            return;
+    int solve(int i, vector<int>&nums,vector<int>&dp){
+        if(i>=nums.size()-1){
+            return 0;
         }
 
-        if(i>=nums.size())return;
+        if(dp[i]!=-1)return dp[i];
         
-        if(nums[i]==0)return;
+        int mini=nums.size();
 
-        for(int j=1; j<=nums[i] && j<nums.size(); j++){
-            solve(i+j,nums,mini,cnt+1);
+        for(int j=1; j<=nums[i] && i+j<nums.size(); j++){
+           mini= min(mini , 1+solve(i+j,nums,dp));
         }
 
+        return dp[i]=mini;
     }
 
     int jump(vector<int>& nums) {
-        int mini=nums.size();
-        int cnt=0;
-        solve(0,nums,mini,cnt);
-        return mini;
+        vector<int>dp(nums.size()+1);
+        fill(dp.begin(),dp.end(),-1);
+        return solve(0,nums,dp);
+     
     }
 };
