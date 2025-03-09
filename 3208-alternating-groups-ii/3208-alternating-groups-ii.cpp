@@ -13,12 +13,9 @@ public:
         
         // Iterate while the start of our window is in the original array
         // and we have not run off the extended array.
-        while (i < n && j < 2 * n) {
+        while (i < n && j < colors.size()) {
             // If our current window is smaller than k, try to extend it.
             if (j - i + 1 < k) {
-                // If we cannot extend further, break.
-                if (j == 2 * n - 1)
-                    break;
                 // If the current pair is alternating, extend the window.
                 if (colors[j] != colors[j+1])
                     j++;
@@ -33,19 +30,14 @@ public:
             else if (j - i + 1 == k) {
                 // Count this window only if its starting index is in [0, n-1].
                 if (i < n)
-                    count++;
-                // Before sliding the window, ensure we have room.
-                if (j == 2 * n - 1)
-                    break;
-                // To slide the window: the next window will be [i+1, j+1].
-                // For that to remain alternating, colors[j] and colors[j+1] must differ.
-                if (colors[j] != colors[j+1]) {
+                count++;
+                if(j + 1 < colors.size() && colors[j] != colors[j+1]){
                     i++;
                     j++;
-                } else {
-                    // Otherwise, a violation occurs.
-                    i = j + 1;
-                    j = i;
+                }
+                else{
+                    i=j+1;
+                    j=i;
                 }
             }
         }
