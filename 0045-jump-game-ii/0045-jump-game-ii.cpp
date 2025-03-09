@@ -1,24 +1,26 @@
 class Solution {
 public:
-    int solve(vector<int> & nums,int index){
-        if(index >= nums.size() - 1){
-            return 0;
+
+    void solve(int i, vector<int>&nums,int&mini, int cnt){
+        if(i==nums.size()-1){
+            mini= min(cnt,mini);
+            return;
         }
-        int a = nums[index],j = index+ 1;
-        if(nums[index] + index >= nums.size()-1)
-            return 1;
-        int maxx = nums[index+1];
+
+        if(i>=nums.size())return;
         
-        for(int i=2;i<=a && i< nums.size();i++){
-            if(maxx + j <= nums[index+i] + index + i){
-                maxx = nums[index+i];
-                j  = index + i;
-            }
+        if(nums[i]==0)return;
+
+        for(int j=1; j<=nums[i] && j<nums.size(); j++){
+            solve(i+j,nums,mini,cnt+1);
         }
-        return 1 + solve(nums,j);
+
     }
+
     int jump(vector<int>& nums) {
-        int steps = solve(nums, 0);
-        return steps;
+        int mini=nums.size();
+        int cnt=0;
+        solve(0,nums,mini,cnt);
+        return mini;
     }
 };
