@@ -24,10 +24,11 @@ public:
         int take = groupSum;
         if (j < nums.size() && nums[j] == current + 1) {
             int k = j;
-            while (k < nums.size() && nums[k] == current + 1)
+            while (k < nums.size() && nums[k] == current + 1)//Not to take 3 start with num[k]=4
                 k++;
             take += solve(k, nums);
         } else {
+            //Else if j was df than i but not ==i+1, so we can start from there.
             take += solve(j, nums);
         }
         
