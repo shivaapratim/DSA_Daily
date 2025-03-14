@@ -97,48 +97,21 @@ public:
 
         //The best and working-> tabulation
 
+        int n= triangle.size();
+        vector<vector<int>> dp(n,vector<int>(n,0));
 
-        int levels = triangle.size();
-        if (levels == 0) return 0;
+        for(int j=n-1; j>=0; j--) {
+            dp[n-1][j]=triangle[n-1][j];
+        }
 
-        // Flatten the triangle into a 1D array.
-        vector<int> nums;
-        for (int i = 0; i < levels; ++i) {
-            for (int j = 0; j < triangle[i].size(); ++j) {
-                nums.push_back(triangle[i][j]);
+        for(int i= n-2; i>=0; i--) {
+            for(int j=i; j>=0; j--) {
+                int down= triangle[i][j] + dp[i+1][j];
+                int downright= triangle[i][j] + dp[i+1][j+1];
+
+                dp[i][j]=min(down, downright);
             }
         }
-        
-        // Total number of elements in the flattened array.
-        int totalElements = nums.size();
-        // Create a DP vector of the same size as nums.
-        // dp[i] will store the minimum path sum starting from the element at flattened index i.
-        vector<int> dp(totalElements, 0);
-        
-        // Initialize the DP for the bottom row.
-        // In a triangle with 'levels' rows, the bottom row has indices starting from:
-        // startBottom = levels*(levels-1)/2 and has 'levels' elements.
-        int startBottom = levels * (levels - 1) / 2;
-        for (int j = 0; j < levels; ++j) {
-            dp[startBottom + j] = nums[startBottom + j];
-        }
-        
-        // Process the triangle from the second last row up to the top.
-        for (int r = levels - 2; r >= 0; --r) {
-            // The starting index for row r in the flattened structure.
-            int startIndex = r * (r + 1) / 2;
-            for (int c = 0; c < r + 1; ++c) {
-                int index = startIndex + c; // flattened index for cell (r, c)
-                // Calculate children indices in the flattened array.
-                int leftChild  = (r + 1) * (r + 2) / 2 + c;
-                int rightChild = leftChild + 1;
-                // The DP recurrence: current cell's value plus the minimum of its two children.
-                dp[index] = nums[index] + min(dp[leftChild], dp[rightChild]);
-            }
-        }
-        
-        // dp[0] now contains the minimum path sum from the top of the triangle.
-        return dp[0];
-
+        return dp[0][0];
     }
 };
