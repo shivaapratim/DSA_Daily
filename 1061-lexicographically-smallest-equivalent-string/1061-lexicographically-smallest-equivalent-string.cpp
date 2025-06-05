@@ -1,5 +1,7 @@
 class Solution {
 public:
+//Graph problem thi babu alg alg components simple dfs.
+//Also DSU intution??
     char solve(int a, string &s1, string &s2) {
         // Initialize with the pair at index a.
         set<char> st;
