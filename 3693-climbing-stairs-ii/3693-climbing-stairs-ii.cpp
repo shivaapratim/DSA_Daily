@@ -1,10 +1,10 @@
 class Solution {
 public:
-    vector<int> memo;
+    int dp[10005];
 
     int solve(int i, vector<int>& costs) {
         if (i == 0) return 0;
-        if (memo[i] != -1) return memo[i];
+        if (dp[i] != -1) return dp[i];
 
         int res = INT_MAX;
 
@@ -20,11 +20,11 @@ public:
         if (i - 3 >= 0)
             res = min(res, solve(i - 3, costs) + costs[i - 1] + 9);
 
-        return memo[i] = res;
+        return dp[i] = res;
     }
 
     int climbStairs(int n, vector<int>& costs) {
-        memo.assign(n + 1, -1);
+        memset(dp,-1,sizeof(dp));
         return solve(n, costs);
     }
 };
