@@ -19,7 +19,7 @@ public:
             maxi=max(area,maxi);
             if(nums[s]<nums[e])s++;
             else if(nums[s]>nums[e])e--;
-            else s++;
+            else s++; //or e--
         }
 
         return maxi;
