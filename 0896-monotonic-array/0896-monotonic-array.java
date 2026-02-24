@@ -1,12 +1,12 @@
 class Solution {
     public boolean isMonotonic(int[] nums) {
-        boolean inc = true, dec = true;
+        int inc = 1, dec = 1;
         
         for(int i = 1; i < nums.length; i++) {
-            if(nums[i] > nums[i-1]) dec = false;
-            if(nums[i] < nums[i-1]) inc = false;
+            if(nums[i] > nums[i-1]) dec = 0;
+            if(nums[i] < nums[i-1]) inc = 0;
         }
         
-        return inc || dec;
+        return inc == 1 || dec == 1;
     }
 }
