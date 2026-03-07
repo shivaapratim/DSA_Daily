@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
