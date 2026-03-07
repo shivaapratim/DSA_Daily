@@ -28,6 +28,7 @@
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
