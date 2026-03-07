@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
