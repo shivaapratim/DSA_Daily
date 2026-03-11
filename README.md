@@ -29,6 +29,7 @@
 | [0053-maximum-subarray](https://github.com/shivaapratim/DSA_Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaapratim/DSA_Daily/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivaapratim/DSA_Daily/tree/main/0011-container-with-most-water/) | Medium |
+| [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
