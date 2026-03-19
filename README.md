@@ -18,6 +18,7 @@
 | [0146-lru-cache](https://github.com/shivaapratim/DSA_Daily/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -160,14 +162,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
+| [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
