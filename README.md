@@ -41,6 +41,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
