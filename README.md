@@ -41,6 +41,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/shivaapratim/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -86,6 +87,7 @@
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/shivaapratim/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
