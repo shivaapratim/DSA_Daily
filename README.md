@@ -43,6 +43,7 @@
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/shivaapratim/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -59,6 +60,7 @@
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 ## Dynamic Programming
@@ -152,6 +154,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shivaapratim/DSA_Daily/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
@@ -173,6 +176,7 @@
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
