@@ -4,13 +4,13 @@ class Solution {
         String lower = word.toLowerCase();
         String onecap= word.substring(0,1).toUpperCase()+word.substring(1).toLowerCase();
         
-        if(word==upperWord){
+        if(word.equals(upperWord)){
             return true;
         }
-        else if(word==lower){
+        else if(word.equals(lower)){
             return true;
         }
-        else if(word==onecap){
+        else if(word.equals(onecap)){
             return true;
         }
        return false;
