@@ -9,6 +9,7 @@
 | [0146-lru-cache](https://github.com/shivaapratim/DSA_Daily/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shivaapratim/DSA_Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -210,4 +212,8 @@
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaapratim/DSA_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
