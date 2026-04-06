@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
+| [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
+| [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivaapratim/DSA_Daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
