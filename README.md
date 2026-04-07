@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 ## Linked List
@@ -115,6 +116,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
@@ -222,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
