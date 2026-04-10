@@ -12,6 +12,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaapratim/DSA_Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 ## Linked List
@@ -118,6 +119,7 @@
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaapratim/DSA_Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -229,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaapratim/DSA_Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/shivaapratim/DSA_Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
