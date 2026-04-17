@@ -50,6 +50,7 @@
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/shivaapratim/DSA_Daily/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivaapratim/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/shivaapratim/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -205,6 +206,7 @@
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivaapratim/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
