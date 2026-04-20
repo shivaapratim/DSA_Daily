@@ -58,6 +58,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivaapratim/DSA_Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
@@ -177,6 +178,7 @@
 | [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
