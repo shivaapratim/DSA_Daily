@@ -128,6 +128,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/shivaapratim/DSA_Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivaapratim/DSA_Daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
@@ -200,6 +201,7 @@
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/shivaapratim/DSA_Daily/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
