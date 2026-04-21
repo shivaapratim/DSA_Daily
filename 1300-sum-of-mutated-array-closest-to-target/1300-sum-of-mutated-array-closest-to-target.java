@@ -1,41 +1,34 @@
 class Solution {
-
-    public int check(int[] nums, int mid, int target){
+    public int function(int[] arr,int target, int mid){     
         int sum = 0;
-        for(int x : nums){
-            sum += (x > mid ? mid : x);
+
+        for(int i=0 ; i<arr.length ; i++){
+            sum += Math.min(arr[i],mid);
         }
-        return sum >= target ? 1 : 0;
+
+        return Math.abs(sum - target);
     }
 
-    public int findBestValue(int[] nums, int target) {
+    public int findBestValue(int[] arr, int target) {
+
+        int n = arr.length;   
         int low = 0;
-        int high = 0;
-
-        for(int x : nums) high = Math.max(high, x);
-
-        int ans = high;
+        int high = target;
+        int mid = 0;
+        int ans = 0;
 
         while(low <= high){
-            int mid = (low + high) / 2;
+            mid = low + (high-low)/2;
 
-            if(check(nums, mid, target) == 1){
+            if(function(arr,target,mid) <= function(arr,target,mid+1)){
+                high = mid-1;
                 ans = mid;
-                high = mid - 1;   // first valid
-            } else {
-                low = mid + 1;
             }
+
+            else low = mid+1;
+
         }
 
-        // check ans and ans-1 (closest logic)
-        int sum1 = 0, sum2 = 0;
-
-        for(int x : nums){
-            sum1 += (x > ans ? ans : x);
-            sum2 += (x > ans-1 ? ans-1 : x);
-        }
-
-        if(Math.abs(sum2 - target) <= Math.abs(sum1 - target)) return ans - 1;
         return ans;
     }
 }
