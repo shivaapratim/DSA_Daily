@@ -131,6 +131,7 @@
 | [0520-detect-capital](https://github.com/shivaapratim/DSA_Daily/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shivaapratim/DSA_Daily/tree/main/0771-jewels-and-stones/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivaapratim/DSA_Daily/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivaapratim/DSA_Daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Backtracking
@@ -206,6 +207,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivaapratim/DSA_Daily/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivaapratim/DSA_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivaapratim/DSA_Daily/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -217,6 +219,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/shivaapratim/DSA_Daily/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivaapratim/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivaapratim/DSA_Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivaapratim/DSA_Daily/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaapratim/DSA_Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shivaapratim/DSA_Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivaapratim/DSA_Daily/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/shivaapratim/DSA_Daily/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
