@@ -59,6 +59,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivaapratim/DSA_Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
@@ -77,6 +78,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/shivaapratim/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaapratim/DSA_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -188,6 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaapratim/DSA_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
