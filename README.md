@@ -61,6 +61,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivaapratim/DSA_Daily/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivaapratim/DSA_Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
@@ -79,6 +80,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1943-describe-the-painting](https://github.com/shivaapratim/DSA_Daily/tree/main/1943-describe-the-painting/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivaapratim/DSA_Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivaapratim/DSA_Daily/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivaapratim/DSA_Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
