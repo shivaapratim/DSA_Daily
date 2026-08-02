@@ -46,6 +46,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shivaapratim/DSA_Daily/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
@@ -91,6 +92,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaapratim/DSA_Daily/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/shivaapratim/DSA_Daily/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Depth-First Search
@@ -197,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaapratim/DSA_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Randomized
@@ -270,4 +273,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
