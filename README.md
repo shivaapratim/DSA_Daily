@@ -202,6 +202,7 @@
 | [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivaapratim/DSA_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivaapratim/DSA_Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +278,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivaapratim/DSA_Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
