@@ -43,6 +43,7 @@
 | [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
@@ -91,6 +92,7 @@
 | [0053-maximum-subarray](https://github.com/shivaapratim/DSA_Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaapratim/DSA_Daily/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -106,6 +108,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/shivaapratim/DSA_Daily/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/shivaapratim/DSA_Daily/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -282,4 +285,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivaapratim/DSA_Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
