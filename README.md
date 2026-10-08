@@ -45,6 +45,7 @@
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0724-find-pivot-index](https://github.com/shivaapratim/DSA_Daily/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
@@ -218,6 +219,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/shivaapratim/DSA_Daily/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
