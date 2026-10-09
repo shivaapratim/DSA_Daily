@@ -45,6 +45,7 @@
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/shivaapratim/DSA_Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/shivaapratim/DSA_Daily/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
