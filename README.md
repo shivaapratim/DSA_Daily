@@ -10,6 +10,7 @@
 | [0146-lru-cache](https://github.com/shivaapratim/DSA_Daily/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -46,6 +47,7 @@
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shivaapratim/DSA_Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/shivaapratim/DSA_Daily/tree/main/0724-find-pivot-index/) | Easy |
@@ -83,6 +85,7 @@
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/shivaapratim/DSA_Daily/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shivaapratim/DSA_Daily/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -190,6 +193,7 @@
 | [0011-container-with-most-water](https://github.com/shivaapratim/DSA_Daily/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shivaapratim/DSA_Daily/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivaapratim/DSA_Daily/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/shivaapratim/DSA_Daily/tree/main/0392-is-subsequence/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivaapratim/DSA_Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -239,6 +243,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/shivaapratim/DSA_Daily/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
