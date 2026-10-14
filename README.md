@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaapratim/DSA_Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shivaapratim/DSA_Daily/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/shivaapratim/DSA_Daily/tree/main/0146-lru-cache/) | Medium |
+| [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/shivaapratim/DSA_Daily/tree/main/0383-ransom-note/) | Easy |
@@ -43,6 +44,7 @@
 | [0134-gas-station](https://github.com/shivaapratim/DSA_Daily/tree/main/0134-gas-station/) | Medium |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shivaapratim/DSA_Daily/tree/main/0200-number-of-islands/) | Medium |
+| [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shivaapratim/DSA_Daily/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -79,6 +81,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/shivaapratim/DSA_Daily/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/shivaapratim/DSA_Daily/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/shivaapratim/DSA_Daily/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/shivaapratim/DSA_Daily/tree/main/0242-valid-anagram/) | Easy |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/shivaapratim/DSA_Daily/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
