@@ -1,39 +1,31 @@
-
+import java.util.*;
 
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
 
         List<Integer> arr = new ArrayList<>();
 
-        HashMap<Integer, Integer> mp1 = new HashMap<>();
-        HashMap<Integer, Integer> mp2 = new HashMap<>();
+        int i = 0, j = 0;
 
-        for (int i = 0; i < nums1.length; i++) {
-            if (mp1.containsKey(nums1[i])) {
-                mp1.put(nums1[i], mp1.get(nums1[i]) + 1);
+        while (i < nums1.length && j < nums2.length) {
+            if (nums1[i] == nums2[j]) {
+                if (arr.isEmpty() || arr.get(arr.size() - 1) != nums1[i]) {
+                    arr.add(nums1[i]);
+                }
+                i++;
+                j++;
+            } else if (nums1[i] < nums2[j]) {
+                i++;
             } else {
-                mp1.put(nums1[i], 1);
-            }
-        }
-
-        for (int i = 0; i < nums2.length; i++) {
-            if (mp2.containsKey(nums2[i])) {
-                mp2.put(nums2[i], mp2.get(nums2[i]) + 1);
-            } else {
-                mp2.put(nums2[i], 1);
-            }
-        }
-
-        for (int key : mp1.keySet()) {
-            if (mp2.containsKey(key)) {
-                arr.add(key);
+                j++;
             }
         }
 
         int[] result = new int[arr.size()];
-
-        for (int i = 0; i < arr.size(); i++) {
-            result[i] = arr.get(i);
+        for (int k = 0; k < arr.size(); k++) {
+            result[k] = arr.get(k);
         }
 
         return result;
