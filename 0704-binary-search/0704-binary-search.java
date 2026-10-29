@@ -13,12 +13,12 @@ class Solution {
         while(low<=high){
             int mid= (low+high)/2;
 
-            if(nums[mid]<target){
-                low=mid+1;
-            }
-            else if(check(mid,nums,target)==1){
+            if(check(mid,nums,target)==1){
                 ans=mid;
                 high=mid-1;
+            }
+           else{
+                low=mid+1;
             }
         }
             //nums[0]==0
