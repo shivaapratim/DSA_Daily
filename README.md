@@ -50,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shivaapratim/DSA_Daily/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/shivaapratim/DSA_Daily/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/shivaapratim/DSA_Daily/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/0867-transpose-matrix/) | Easy |
@@ -244,6 +245,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shivaapratim/DSA_Daily/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/shivaapratim/DSA_Daily/tree/main/0704-binary-search/) | Easy |
 | [0731-my-calendar-ii](https://github.com/shivaapratim/DSA_Daily/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/shivaapratim/DSA_Daily/tree/main/0732-my-calendar-iii/) | Hard |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/shivaapratim/DSA_Daily/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
