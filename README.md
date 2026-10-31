@@ -72,6 +72,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shivaapratim/DSA_Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivaapratim/DSA_Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2233-maximum-product-after-k-increments](https://github.com/shivaapratim/DSA_Daily/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/shivaapratim/DSA_Daily/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2906-construct-product-matrix](https://github.com/shivaapratim/DSA_Daily/tree/main/2906-construct-product-matrix/) | Medium |
@@ -208,6 +209,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivaapratim/DSA_Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/shivaapratim/DSA_Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivaapratim/DSA_Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2233-maximum-product-after-k-increments](https://github.com/shivaapratim/DSA_Daily/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivaapratim/DSA_Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -266,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/shivaapratim/DSA_Daily/tree/main/1094-car-pooling/) | Medium |
+| [2233-maximum-product-after-k-increments](https://github.com/shivaapratim/DSA_Daily/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
