@@ -101,6 +101,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shivaapratim/DSA_Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/shivaapratim/DSA_Daily/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/shivaapratim/DSA_Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaapratim/DSA_Daily/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/shivaapratim/DSA_Daily/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
@@ -214,6 +215,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivaapratim/DSA_Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivaapratim/DSA_Daily/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0877-stone-game](https://github.com/shivaapratim/DSA_Daily/tree/main/0877-stone-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivaapratim/DSA_Daily/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -311,4 +313,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shivaapratim/DSA_Daily/tree/main/0322-coin-change/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivaapratim/DSA_Daily/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
